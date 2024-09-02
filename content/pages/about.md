@@ -7,7 +7,7 @@ sections:
     subtitle: ''
     text: ''
   - type: HeroSection
-    title: This is CCV-SHOP
+    title: CCV-SHOP
     subtitle: ''
     text: >+
       As a freelancer, I understood the client's requirements and executed a
