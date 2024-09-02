@@ -22,13 +22,7 @@ sections:
       Aenean vel aliquet elit, at blandit ipsum. Sed eleifend felis sit amet
       erat molestie, hendrerit malesuada justo ultrices. Nunc volutpat at erat
       itae interdum. Ut nec massa eget lorem blandit condimentum et at risus.
-    actions:
-      - type: Button
-        label: Start Building
-        url: 'https://docs.netlify.com/visual-editor/get-started/'
-        size: large
-        variant: contained
-        color: primary
+    actions: []
     image:
       type: Image
       url: /images/hero.svg
