@@ -30,11 +30,11 @@ sections:
           type: Image
           url: /images/nextjs.svg
           altText: First item image
-        text: >
-          Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do
-          eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad
-          minim veniam, quis nostrud exercitation ullamco laboris nisi ut
-          aliquip ex ea commodo consequat.
+        text: >+
+          I specialize in creating dynamic and user-friendly websites, ensuring
+          a seamless experience for users. With a passion for coding and design,
+          I strive to bring innovative solutions to every project I undertake.
+
         actions:
           - type: Button
             label: Read the Docs
