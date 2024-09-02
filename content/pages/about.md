@@ -80,7 +80,7 @@ sections:
           pharetra ipsum dolor, et iaculis elit ornare ac.
         image:
           type: Image
-          url: /images/Capture.PNG
+          url: /images/preview.png
           altText: Second item image
         actions:
           - type: Button
