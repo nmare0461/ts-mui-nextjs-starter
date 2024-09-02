@@ -3,7 +3,7 @@ title: About
 type: Page
 sections:
   - type: HeroSection
-    title: ''
+    title: projects i've worked on
     subtitle: ''
     text: ''
   - type: HeroSection
