@@ -115,7 +115,7 @@ sections:
             variant: text
             color: primary
       - type: Card
-        title: Item Title
+        title: Fast Loading Times
         text: ''
         image:
           type: Image
