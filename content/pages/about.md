@@ -69,7 +69,7 @@ sections:
         text: ''
         image:
           type: Image
-          url: /images/images.jfif
+          url: /images/images (3).jfif
           altText: First item image
         actions: []
       - type: Card
