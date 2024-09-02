@@ -94,14 +94,6 @@ sections:
     subtitle: The section subtitle
     items:
       - type: Card
-        title: First Item Title
-        text: ''
-        image:
-          type: Image
-          url: /images/nextjs.svg
-          altText: First item image
-        actions: []
-      - type: Card
         title: Item Title
         text: >-
           Sed ut perspiciatis unde omnis iste natus error sit voluptatem
@@ -119,6 +111,14 @@ sections:
             size: medium
             variant: text
             color: primary
+      - type: Card
+        title: First Item Title
+        text: ''
+        image:
+          type: Image
+          url: /images/nextjs.svg
+          altText: First item image
+        actions: []
       - type: Card
         title: Second Item Title
         text: >-
