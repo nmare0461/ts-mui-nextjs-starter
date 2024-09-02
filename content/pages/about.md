@@ -8,7 +8,7 @@ sections:
     text: ''
   - type: HeroSection
     title: CCV-SHOP
-    subtitle: ''
+    subtitle: oiooo
     text: >+
       As a freelancer, I understood the client's requirements and executed a
       plan to develop and design an e-commerce platform, including the frontend
