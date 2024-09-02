@@ -6,9 +6,9 @@ sections:
     title: Vitali Polikov
     subtitle: 'React, TypeScript, Next.js'
     text: >
-      This is the HeroSection component. You can visually edit this component &
-      add more sections while developing locally. [Learn
-      more.](https://docs.netlify.com/visual-editor/local-development/)
+      I specialize in creating dynamic and user-friendly websites, ensuring a
+      seamless experience for users. With a passion for coding and design, I
+      strive to bring innovative solutions to every project I undertake.
     actions:
       - type: Button
         label: Start Building
