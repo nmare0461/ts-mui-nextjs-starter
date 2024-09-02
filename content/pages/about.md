@@ -9,11 +9,12 @@ sections:
   - type: HeroSection
     title: This is CCV-SHOP
     subtitle: ''
-    text: >-
-      Aenean eros ipsum, interdum quis dignissim non, sollicitudin vitae nisl.
-      Aenean vel aliquet elit, at blandit ipsum. Sed eleifend felis sit amet
-      erat molestie, hendrerit malesuada justo ultrices. Nunc volutpat at erat
-      itae interdum. Ut nec massa eget lorem blandit condimentum et at risus.
+    text: >+
+      As a freelancer, I understood the client's requirements and executed a
+      plan to develop and design an e-commerce platform, including the frontend
+      UI, backend setup with database, APIs, and integration with payment
+      platforms.
+
     actions: []
     image:
       type: Image
