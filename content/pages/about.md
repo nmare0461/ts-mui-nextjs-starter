@@ -9,12 +9,11 @@ sections:
   - type: HeroSection
     title: CCV-SHOP
     subtitle: Credit Card Shop
-    text: >+
+    text: >
       As a freelancer, I understood the client's requirements and executed a
       plan to develop and design an e-commerce platform, including the frontend
       UI, backend setup with database, APIs, and integration with payment
-      platforms.
-
+      platforms. <https://support.apkz.fun/>
     actions: []
     image:
       type: Image
