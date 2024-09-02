@@ -51,7 +51,7 @@ sections:
     subtitle: ''
     items:
       - type: Card
-        title: Item Title
+        title: Anon Shopping
         text: ''
         image:
           type: Image
