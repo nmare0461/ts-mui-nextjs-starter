@@ -52,11 +52,20 @@ sections:
           type: Image
           url: /images/mui-5.svg
           altText: Second item image
-        text: >
-          Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do
-          eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad
-          minim veniam, quis nostrud exercitation ullamco laboris nisi ut
-          aliquip ex ea commodo consequat.
+        text: >+
+          *   Developing applications that run in a web browser, such as project
+          management tools or social networking sites.
+
+
+          *   Using frameworks like React or Angular to create fast, interactive
+          web applications.
+
+
+          *   Creating personal or company portfolios to showcase work, skills,
+          and services.
+
+
+
         actions:
           - type: Button
             label: Read the Docs
