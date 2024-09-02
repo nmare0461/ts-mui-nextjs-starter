@@ -22,11 +22,12 @@ sections:
   - type: HeroSection
     title: Grilli Restaurant
     subtitle: Where every flavor tells a story
-    text: >-
-      Aenean eros ipsum, interdum quis dignissim non, sollicitudin vitae nisl.
-      Aenean vel aliquet elit, at blandit ipsum. Sed eleifend felis sit amet
-      erat molestie, hendrerit malesuada justo ultrices. Nunc volutpat at erat
-      itae interdum. Ut nec massa eget lorem blandit condimentum et at risus.
+    text: >
+      Grilli restaurant specializes in Italian cuisine, offering a variety of
+      traditional dishes such as pasta, pizza, risotto, and seafood. They may
+      also feature regional specialties, seasonal ingredients, and a selection
+      of fine wines to complement the meals. If you need more specific
+      information or a menu layout, let me know!
     actions: []
     image:
       type: Image
