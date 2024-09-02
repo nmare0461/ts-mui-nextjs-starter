@@ -48,7 +48,7 @@ sections:
       altText: Hero section image
   - type: CardsSection
     title: My Projects
-    subtitle: The section subtitle
+    subtitle: ''
     items:
       - type: Card
         title: Item Title
