@@ -18,7 +18,7 @@ sections:
         color: primary
     image:
       type: Image
-      url: /images/Ajay.jpg
+      url: /images/photo_2022-04-07_15-59-35.jpg
       altText: Hero section image
   - type: CardsSection
     title: What Can I Do
