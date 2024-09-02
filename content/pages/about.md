@@ -21,7 +21,7 @@ sections:
       altText: Hero section image
   - type: HeroSection
     title: Grilli Restaurant
-    subtitle: Where every flavortells a story
+    subtitle: Where every flavor tells a story
     text: >-
       Aenean eros ipsum, interdum quis dignissim non, sollicitudin vitae nisl.
       Aenean vel aliquet elit, at blandit ipsum. Sed eleifend felis sit amet
