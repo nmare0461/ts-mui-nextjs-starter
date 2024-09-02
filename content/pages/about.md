@@ -13,7 +13,7 @@ sections:
       As a freelancer, I understood the client's requirements and executed a
       plan to develop and design an e-commerce platform, including the frontend
       UI, backend setup with database, APIs, and integration with payment
-      platforms. <https://support.apkz.fun/>
+      platforms. [**`https://support.apkz.fun/`**](https://support.apkz.fun/)
     actions: []
     image:
       type: Image
