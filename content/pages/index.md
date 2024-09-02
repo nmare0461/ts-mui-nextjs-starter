@@ -90,8 +90,5 @@ sections:
           functionalities like data retrieval or third-party authentication.
 
 
-        actions:
-          - type: Button
-            label: Read the Docs
-            url: 'https://docs.netlify.com/visual-editor/overview/'
+        actions: []
 ---
