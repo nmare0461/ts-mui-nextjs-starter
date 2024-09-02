@@ -94,7 +94,7 @@ sections:
           pharetra ipsum dolor, et iaculis elit ornare ac.
         image:
           type: Image
-          url: /images/ts.svg
+          url: /images/download (5).jfif
           altText: Third item image
         actions:
           - type: Button
