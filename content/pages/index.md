@@ -47,7 +47,7 @@ sections:
         title: Responsive Web design
         image:
           type: Image
-          url: /images/mui-5.svg
+          url: /images/download (2).jfif
           altText: Second item image
         text: >+
           *   Developing applications that run in a web browser, such as project
