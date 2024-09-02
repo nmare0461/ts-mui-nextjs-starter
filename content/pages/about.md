@@ -35,7 +35,7 @@ sections:
       altText: Hero section image
   - type: HeroSection
     title: Beautiful Beaches
-    subtitle: The section subtitle
+    subtitle: About The Best Beaches
     text: >+
       You can find the most beautiful and pleasant places at the best prices
       with special discounts, you choose the place we will guide you all the way
