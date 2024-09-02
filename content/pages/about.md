@@ -17,7 +17,7 @@ sections:
     actions: []
     image:
       type: Image
-      url: /images/desktop.png
+      url: /images/Capture.PNG
       altText: Hero section image
   - type: HeroSection
     title: This Is A Big Hero Headline
