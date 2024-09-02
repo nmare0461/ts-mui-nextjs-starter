@@ -69,7 +69,7 @@ sections:
         text: ''
         image:
           type: Image
-          url: /images/Desktop 1600 - Copy.png
+          url: /images/Desktop 1600.png
           altText: First item image
         actions: []
       - type: Card
