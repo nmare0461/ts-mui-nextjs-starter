@@ -11,7 +11,7 @@ sections:
       strive to bring innovative solutions to every project I undertake.
     actions:
       - type: Button
-        label: Start Building
+        label: My Resumes
         url: 'https://docs.netlify.com/visual-editor/get-started/'
         size: large
         variant: contained
