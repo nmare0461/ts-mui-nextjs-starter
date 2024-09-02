@@ -21,7 +21,7 @@ sections:
       url: /images/Ajay.jpg
       altText: Hero section image
   - type: CardsSection
-    title: Cards Section Component
+    title: What Can I Do
     subtitle: Section subtitle here
     items:
       - type: Card
