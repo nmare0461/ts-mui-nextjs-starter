@@ -25,7 +25,7 @@ sections:
     subtitle: Section subtitle here
     items:
       - type: Card
-        title: frontend developing
+        title: frontend development
         image:
           type: Image
           url: /images/nextjs.svg
