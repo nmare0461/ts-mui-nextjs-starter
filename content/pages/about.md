@@ -51,7 +51,7 @@ sections:
     subtitle: ''
     items:
       - type: Card
-        title: Anon Shopping
+        title: Fast SEO Function
         text: ''
         image:
           type: Image
