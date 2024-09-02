@@ -40,7 +40,7 @@ sections:
             label: Read the Docs
             url: 'https://docs.netlify.com/visual-editor/overview/'
       - type: Card
-        title: Second Card Title
+        title: Web designer
         image:
           type: Image
           url: /images/mui-5.svg
@@ -55,7 +55,7 @@ sections:
             label: Read the Docs
             url: 'https://docs.netlify.com/visual-editor/overview/'
       - type: Card
-        title: Third Card Title
+        title: ''
         image:
           type: Image
           url: /images/ts.svg
