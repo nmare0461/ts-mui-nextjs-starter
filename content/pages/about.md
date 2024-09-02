@@ -47,7 +47,7 @@ sections:
       url: /images/preview.png
       altText: Hero section image
   - type: CardsSection
-    title: Cards Section Title
+    title: my projects
     subtitle: The section subtitle
     items:
       - type: Card
