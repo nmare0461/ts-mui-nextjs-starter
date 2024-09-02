@@ -68,7 +68,7 @@ sections:
         title: UI / UX designing
         image:
           type: Image
-          url: /images/ts.svg
+          url: /images/download (1).jfif
           altText: Third item image
         text: >+
           *   Experience in designing user-friendly interfaces with figma
