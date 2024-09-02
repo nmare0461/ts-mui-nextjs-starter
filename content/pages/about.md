@@ -73,7 +73,7 @@ sections:
           altText: First item image
         actions: []
       - type: Card
-        title: Second Item Title
+        title: High-Quality Visuals
         text: ''
         image:
           type: Image
