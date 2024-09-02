@@ -69,7 +69,7 @@ sections:
         text: ''
         image:
           type: Image
-          url: /images/Desktop 1600.png
+          url: /images/images.jfif
           altText: First item image
         actions: []
       - type: Card
