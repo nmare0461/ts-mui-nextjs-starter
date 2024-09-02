@@ -12,7 +12,7 @@ sections:
     actions:
       - type: Button
         label: My Resumes
-        url: ''
+        url: '#'
         size: large
         variant: contained
         color: primary
