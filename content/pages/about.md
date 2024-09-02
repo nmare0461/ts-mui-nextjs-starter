@@ -30,7 +30,7 @@ sections:
     actions: []
     image:
       type: Image
-      url: /images/hero.svg
+      url: /images/preview (2).png
       altText: Hero section image
   - type: HeroSection
     title: This Is A Big Hero Headline
