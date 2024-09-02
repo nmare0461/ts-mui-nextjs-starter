@@ -55,7 +55,7 @@ sections:
         text: ''
         image:
           type: Image
-          url: /images/ts.svg
+          url: /images/mobile.png
           altText: Item image
         actions:
           - type: Button
