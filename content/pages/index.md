@@ -12,7 +12,8 @@ sections:
     actions:
       - type: Button
         label: My Resumes
-        url: '#'
+        url: >-
+          https://drive.google.com/file/d/1S2Ta4xLgbt9h1PDCJxDIeiXWKd6F_YyY/view?usp=drive_link
         size: large
         variant: contained
         color: primary
