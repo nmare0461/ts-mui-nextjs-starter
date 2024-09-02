@@ -31,9 +31,16 @@ sections:
           url: /images/nextjs.svg
           altText: First item image
         text: >+
-          I specialize in creating dynamic and user-friendly websites, ensuring
-          a seamless experience for users. With a passion for coding and design,
-          I strive to bring innovative solutions to every project I undertake.
+          *   Building full-stack web applications using Next.js with
+          TypeScript, TailwindCSS, ShadCN, and Prisma
+
+
+          *   Developing responsive single-page applications using React.js
+
+
+          *   Creating RESTful APIs using Express for backend development
+
+
 
         actions:
           - type: Button
