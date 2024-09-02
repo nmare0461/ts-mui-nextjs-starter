@@ -76,12 +76,19 @@ sections:
           type: Image
           url: /images/ts.svg
           altText: Third item image
-        text: |+
+        text: >+
           *   Experience in designing user-friendly interfaces with figma
+
 
           *   Experience in developing design systems and style guides
 
+
           *   Providing user-friendly design solutions
+
+
+          *   Connecting websites to external services through APIs for
+          functionalities like data retrieval or third-party authentication.
+
 
         actions:
           - type: Button
