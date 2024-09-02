@@ -43,7 +43,7 @@ sections:
     actions: []
     image:
       type: Image
-      url: /images/hero.svg
+      url: /images/preview.png
       altText: Hero section image
   - type: CardsSection
     title: Cards Section Title
