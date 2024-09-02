@@ -22,7 +22,7 @@ sections:
       altText: Hero section image
   - type: CardsSection
     title: What Can I Do
-    subtitle: Wha
+    subtitle: Where I
     items:
       - type: Card
         title: frontend development
