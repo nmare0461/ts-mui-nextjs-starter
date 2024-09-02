@@ -28,7 +28,7 @@ sections:
         title: frontend development
         image:
           type: Image
-          url: /images/nextjs.svg
+          url: /images/hero.svg
           altText: First item image
         text: >+
           *   Building full-stack web applications using Next.js with
