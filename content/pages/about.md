@@ -101,7 +101,7 @@ sections:
             variant: text
             color: primary
       - type: Card
-        title: Item Title
+        title: Grid System
         text: ''
         image:
           type: Image
