@@ -87,7 +87,7 @@ sections:
             variant: text
             color: primary
       - type: Card
-        title: Third Item Title
+        title: Responsive Design
         text: ''
         image:
           type: Image
