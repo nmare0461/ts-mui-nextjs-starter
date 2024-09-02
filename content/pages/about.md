@@ -55,7 +55,7 @@ sections:
         text: ''
         image:
           type: Image
-          url: /images/mobile.png
+          url: /images/images (1).jfif
           altText: Item image
         actions:
           - type: Button
