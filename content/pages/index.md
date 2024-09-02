@@ -42,10 +42,7 @@ sections:
 
 
 
-        actions:
-          - type: Button
-            label: Read the Docs
-            url: 'https://docs.netlify.com/visual-editor/overview/'
+        actions: []
       - type: Card
         title: Responsive Web design
         image:
