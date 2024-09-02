@@ -30,7 +30,7 @@ sections:
     actions: []
     image:
       type: Image
-      url: /images/preview (2).png
+      url: /images/desktop.png
       altText: Hero section image
   - type: HeroSection
     title: Beautiful Beaches
