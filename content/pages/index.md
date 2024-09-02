@@ -25,7 +25,7 @@ sections:
     subtitle: Where I've Worked
     items:
       - type: Card
-        title: frontend development
+        title: Frontend development
         image:
           type: Image
           url: /images/hero.svg
