@@ -12,13 +12,14 @@ sections:
     actions:
       - type: Button
         label: My Resumes
-        url: 'https://docs.netlify.com/visual-editor/get-started/'
+        url: >-
+          https://drive.google.com/file/d/1S2Ta4xLgbt9h1PDCJxDIeiXWKd6F_YyY/view?usp=drive_link
         size: large
         variant: contained
         color: primary
     image:
       type: Image
-      url: /images/Ajay.jpg
+      url: /images/photo_2022-04-07_15-59-35.jpg
       altText: Hero section image
   - type: CardsSection
     title: What Can I Do
