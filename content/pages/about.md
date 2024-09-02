@@ -34,7 +34,7 @@ sections:
       url: /images/preview (2).png
       altText: Hero section image
   - type: HeroSection
-    title: This Is A Big Hero Headline
+    title: Beautiful Beaches
     subtitle: The section subtitle
     text: >-
       Aenean eros ipsum, interdum quis dignissim non, sollicitudin vitae nisl.
