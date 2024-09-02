@@ -36,11 +36,11 @@ sections:
   - type: HeroSection
     title: Beautiful Beaches
     subtitle: The section subtitle
-    text: >-
-      Aenean eros ipsum, interdum quis dignissim non, sollicitudin vitae nisl.
-      Aenean vel aliquet elit, at blandit ipsum. Sed eleifend felis sit amet
-      erat molestie, hendrerit malesuada justo ultrices. Nunc volutpat at erat
-      itae interdum. Ut nec massa eget lorem blandit condimentum et at risus.
+    text: >+
+      You can find the most beautiful and pleasant places at the best prices
+      with special discounts, you choose the place we will guide you all the way
+      to wait, get your place now.
+
     actions: []
     image:
       type: Image
