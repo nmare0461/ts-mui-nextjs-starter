@@ -21,7 +21,7 @@ sections:
       altText: Hero section image
   - type: HeroSection
     title: Grilli Restaurant
-    subtitle: For the love of delicious food
+    subtitle: Where every flavortells a story
     text: >-
       Aenean eros ipsum, interdum quis dignissim non, sollicitudin vitae nisl.
       Aenean vel aliquet elit, at blandit ipsum. Sed eleifend felis sit amet
