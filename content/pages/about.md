@@ -77,7 +77,7 @@ sections:
         text: ''
         image:
           type: Image
-          url: /images/preview.png
+          url: /images/download (6).jfif
           altText: Second item image
         actions:
           - type: Button
