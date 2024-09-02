@@ -25,7 +25,7 @@ sections:
     subtitle: Section subtitle here
     items:
       - type: Card
-        title: frontend developer
+        title: frontend developing
         image:
           type: Image
           url: /images/nextjs.svg
@@ -40,7 +40,7 @@ sections:
             label: Read the Docs
             url: 'https://docs.netlify.com/visual-editor/overview/'
       - type: Card
-        title: Web designer
+        title: Web designing
         image:
           type: Image
           url: /images/mui-5.svg
@@ -55,7 +55,7 @@ sections:
             label: Read the Docs
             url: 'https://docs.netlify.com/visual-editor/overview/'
       - type: Card
-        title: ''
+        title: UI / UX designing
         image:
           type: Image
           url: /images/ts.svg
