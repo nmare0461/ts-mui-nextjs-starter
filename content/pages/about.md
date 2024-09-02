@@ -51,7 +51,7 @@ sections:
     subtitle: ''
     items:
       - type: Card
-        title: Fast SEO Function
+        title: Optimize Performance
         text: ''
         image:
           type: Image
